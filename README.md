@@ -96,7 +96,7 @@ Chart uses sample_values for the y values (5 points)
 
 Chart uses sample_values for the marker size (5 points)
 
-Chart uses `otu_labels for text values (5 points)
+Chart uses otu_labels for text values (5 points)
 
 -Metadata and Deployment (30 points)-
 
